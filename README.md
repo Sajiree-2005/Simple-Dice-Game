@@ -1,5 +1,4 @@
 # Simple-Dice-Game
-# Dicee - Dice Roll Game
 
 Dicee is a simple web-based dice game where two players roll dice, and the winner is determined based on the higher roll. The page is designed to display the results of both players' rolls and announce the winner or a draw.
 
